@@ -50,4 +50,33 @@ namespace cadeteria
         }
 
     }
+
+    public class Cadete: Persona
+    {
+        private List<Pedido> Pedidos;
+        public List<Pedido> pedidos;
+
+        //Constructores
+        public Cadete (int id,
+                       string nombre,
+                       string apellido,
+                       string direccion,
+                       int telefono,
+                       List<Pedido> pedidos) : base()
+        {
+            this.Pedidos = pedidos;
+        } 
+        public float jornalACobrar()
+        {
+            float jornal = 0;
+
+            for ( int i = 0; i < pedidos.Count(); i++ )
+            {
+                jornal = jornal + ( 300 * Convert.ToInt32 (pedidos[i].estado) );
+            }
+
+            return jornal;
+
+        }
+    }
 }

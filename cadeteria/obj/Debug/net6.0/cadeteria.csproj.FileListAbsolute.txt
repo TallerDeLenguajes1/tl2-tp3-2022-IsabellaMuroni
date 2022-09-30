@@ -1,0 +1,15 @@
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\bin\Debug\net6.0\cadeteria.exe
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\bin\Debug\net6.0\cadeteria.deps.json
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\bin\Debug\net6.0\cadeteria.runtimeconfig.json
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\bin\Debug\net6.0\cadeteria.dll
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\bin\Debug\net6.0\cadeteria.pdb
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\cadeteria.csproj.AssemblyReference.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\cadeteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\cadeteria.AssemblyInfoInputs.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\cadeteria.AssemblyInfo.cs
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\cadeteria.csproj.CoreCompileInputs.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\cadeteria.dll
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\refint\cadeteria.dll
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\cadeteria.pdb
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\cadeteria.genruntimeconfig.cache
+D:\Backup Lenovo\Disco D\Facultad\2022\Taller de Lenguajes II\TP_3\tl2-tp3-2022-IsabellaMuroni\cadeteria\obj\Debug\net6.0\ref\cadeteria.dll
