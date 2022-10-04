@@ -44,7 +44,7 @@ namespace cadeteria
                         string apellido,
                         string direccion,
                         int telefono,
-                        string datosReferenciaDireccion) : base (id, nombre, apellido, direccion, telefono)
+                        string datosReferenciaDireccion)
         {
             this.DatosReferenciaDireccion = datosReferenciaDireccion;
         }
@@ -61,11 +61,17 @@ namespace cadeteria
                        string nombre,
                        string apellido,
                        string direccion,
-                       int telefono,
-                       List<Pedido> pedidos) : base()
+                       int telefono)
         {
-            this.Pedidos = pedidos;
+            pedidos = new List<Pedido> ();
         } 
+
+        public void ingresarPedido (Pedido pedido)
+        {
+            pedido.pedidoIniciado();
+            pedidos.Add(pedido);
+        }
+
         public float jornalACobrar()
         {
             float jornal = 0;

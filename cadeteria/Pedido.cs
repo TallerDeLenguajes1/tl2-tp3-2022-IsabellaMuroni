@@ -20,12 +20,29 @@ namespace cadeteria
         //Constructores
         public Pedido () {}
 
-        public Pedido (int nro, string obs, Cliente cliente, bool estado)
+        public Pedido (int nro, string obs, int id,
+                        string nombre,
+                        string apellido,
+                        string direccion,
+                        int telefono,
+                        string datosRef)
         {
             this.NRO = nro;
             this.OBS = obs;
-            this.Cliente = cliente;
-            this.Estado = estado;
+            cliente = new Cliente (id, nombre, apellido, direccion, telefono, datosRef);
         }
+
+        //Metodos
+
+        public void pedidoIniciado()
+        {
+            estado = true;
+        }
+
+        public void pedidoEntregado()
+        {
+            estado = false;
+        }
+
     }
 }
