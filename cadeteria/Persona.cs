@@ -31,14 +31,10 @@ namespace cadeteria
         //Metodos
         public void mostrarInformacion ()
         {
-            Console.WriteLine("ID: ");
-            Console.Write(id);
-            Console.WriteLine("Nombre: ");
-            Console.Write(nombre);
-            Console.WriteLine("Dirección: ");
-            Console.Write(direccion);
-            Console.WriteLine("Telefono: ");
-            Console.Write(telefono);
+            Console.WriteLine("ID: " + id);
+            Console.WriteLine("Nombre: " + nombre);
+            Console.WriteLine("Dirección: " + direccion);
+            Console.WriteLine("Telefono: " + telefono);
         }
 
     }
