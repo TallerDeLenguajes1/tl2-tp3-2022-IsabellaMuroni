@@ -27,16 +27,6 @@ namespace cadeteria
             listaCadetes.Add(cadete);
         }
 
-        public void informePedidos ()
-        {
-            int cant_envios_cadetes = 0;
-            int cant_envios_total = 0;
-            int cant_envios_promedio = 0;
-
-            for (int i = 0; i > listaCadetes.Count(); i++)
-            {
-                listaCadetes[i].
-            }
-        }
+        
     }
 }

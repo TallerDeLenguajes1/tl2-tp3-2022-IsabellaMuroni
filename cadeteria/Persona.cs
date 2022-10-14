@@ -28,6 +28,19 @@ namespace cadeteria
             this.Telefono = telefono;
         }
 
+        //Metodos
+        public void mostrarInformacion ()
+        {
+            Console.WriteLine("ID: ");
+            Console.Write(id);
+            Console.WriteLine("Nombre: ");
+            Console.Write(nombre);
+            Console.WriteLine("Dirección: ");
+            Console.Write(direccion);
+            Console.WriteLine("Telefono: ");
+            Console.Write(telefono);
+        }
+
     }
 
     public class Cliente: Persona
@@ -44,7 +57,7 @@ namespace cadeteria
                         string apellido,
                         string direccion,
                         int telefono,
-                        string datosReferenciaDireccion)
+                        string datosReferenciaDireccion) : base (id, nombre, apellido, direccion, telefono)
         {
             this.DatosReferenciaDireccion = datosReferenciaDireccion;
         }
@@ -61,7 +74,7 @@ namespace cadeteria
                        string nombre,
                        string apellido,
                        string direccion,
-                       int telefono)
+                       int telefono) : base (id, nombre, apellido, direccion, telefono)
         {
             pedidos = new List<Pedido> ();
         } 
